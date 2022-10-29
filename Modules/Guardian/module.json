@@ -1,0 +1,13 @@
+{
+    "name": "Guardian",
+    "alias": "guardian",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Guardian\\Providers\\GuardianServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,6 @@
+{
+    "Student": true,
+    "Guardian": true,
+    "User": true,
+    "Applicant": true
+}
